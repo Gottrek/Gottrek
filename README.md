@@ -7,12 +7,9 @@
 
 ## 👨‍💻 About Me
 
-<p>
-  I'm a student pursuing degrees in both **Computer Science** and **Cybersecurity**, exploring both sides of the digital coin: building and securing.
-</p>
-<p>
-  I love diving deep into <strong>C++</strong>, crafting experiences for the <strong>web</strong>, and defending <strong>digital environments</strong>. I'm always curious and eager to build secure, efficient solutions.
-</p>
+I'm a student pursuing degrees in both **Computer Science** and **Cybersecurity**, exploring both sides of the digital coin: building and securing.
+
+I love diving deep into **C++**, crafting experiences for the **web**, and defending **digital environments**. I'm always curious and eager to build secure, efficient solutions.
 
 ## 🛠️ My Tech Toolkit
 
