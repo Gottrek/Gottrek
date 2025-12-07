@@ -20,21 +20,21 @@ I love diving deep into **C++**, crafting experiences for the **web**, and defen
     <td valign="top">
       <strong>Languages:</strong>
       <ul>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> C++</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="16" height="16"/> C</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="16" height="16"/> Python</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="16" height="16"/> HTML5</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="16" height="16"/> CSS3</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Shell" width="16" height="16"/> Shell/Bash</li>
+        <li><img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="16" height="16"/> C++</li>
+        <li><img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="16" height="16"/> C</li>
+        <li><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="16" height="16"/> Python</li>
+        <li><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="16" height="16"/> HTML5</li>
+        <li><img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="16" height="16"/> CSS3</li>
+        <li><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Shell" width="16" height="16"/> Shell/Bash</li>
       </ul>
     </td>
     <td valign="top">
       <strong>Tools & Concepts:</strong>
       <ul>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="16" height="16"/> Git & GitHub</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="CMake" width="16" height="16"/> CMake</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="16" height="16"/> Linux</li>
-        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="16" height="16"/> VS Code</li>
+        <li><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="16" height="16"/> Git & GitHub</li>
+        <li><img src="https://cdn.simpleicons.org/cmake/064F8C" alt="CMake" width="16" height="16"/> CMake</li>
+        <li><img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="16" height="16"/> Linux</li>
+        <li><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="16" height="16"/> VS Code</li>
         <li>🧠 Algorithms & Data Structures</li>
         <li>🛡️ Network Security</li>
       </ul>
