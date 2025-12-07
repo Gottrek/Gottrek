@@ -20,21 +20,21 @@ I love diving deep into **C++**, crafting experiences for the **web**, and defen
     <td valign="top">
       <strong>Languages:</strong>
       <ul>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> C++</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="16" height="16"/> C</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="16" height="16"/> Python</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="16" height="16"/> HTML5</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="16" height="16"/> CSS3</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Shell" width="16" height="16"/> Shell/Bash</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> C++</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="16" height="16"/> C</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="16" height="16"/> Python</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="16" height="16"/> HTML5</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="16" height="16"/> CSS3</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="16" height="16"/> Shell/Bash</li>
       </ul>
     </td>
     <td valign="top">
       <strong>Tools & Concepts:</strong>
       <ul>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="16" height="16"/> Git & GitHub</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" alt="CMake" width="16" height="16"/> CMake</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="16" height="16"/> Linux</li>
-        <li><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="16" height="16"/> VS Code</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="16" height="16"/> Git & GitHub</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="16" height="16"/> CMake</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="16" height="16"/> Linux</li>
+        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="16" height="16"/> VS Code</li>
         <li>🧠 Algorithms & Data Structures</li>
         <li>🛡️ Network Security</li>
       </ul>
@@ -45,8 +45,8 @@ I love diving deep into **C++**, crafting experiences for the **web**, and defen
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gottrek&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="Wiktor's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gottrek&layout=compact&theme=transparent&langs_count=8" alt="Wiktor's Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gottrek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Wiktor's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gottrek&layout=compact&theme=tokyonight&langs_count=8" alt="Wiktor's Top Languages" width="48%"/>
 </p>
 
 ## 📫 How to reach me
@@ -60,18 +60,3 @@ I love diving deep into **C++**, crafting experiences for the **web**, and defen
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
 </p>
-
-<!--
-**Gottrek/Gottrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
