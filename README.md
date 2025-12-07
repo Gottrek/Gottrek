@@ -39,18 +39,18 @@ I love diving deep into **C++**, crafting experiences for the **web**, and defen
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gottrek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Wiktor's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gottrek&show_icons=true&theme=tokyonight" alt="Wiktor's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gottrek&layout=compact&theme=tokyonight&langs_count=8" alt="Wiktor's Top Languages" width="48%"/>
 </p>
 
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wiktor-sinkiewicz-046110204/">
+  <a href="https://www.linkedin.com/in/wiktor-sinkiewicz-048110204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://twitter.com/Wiktor_Sin">
+  <a href="https://twitter.com/Wiktor_Sin" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)">
   </a>
 </p>
