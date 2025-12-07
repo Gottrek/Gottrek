@@ -15,32 +15,26 @@ I love diving deep into **C++**, crafting experiences for the **web**, and defen
 
 <p>Here are some of the technologies I'm working with and learning:</p>
 
-<table>
-  <tr>
-    <td valign="top">
-      <strong>Languages:</strong>
-      <ul>
-        <li><img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="16" height="16"/> C++</li>
-        <li><img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="16" height="16"/> C</li>
-        <li><img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="16" height="16"/> Python</li>
-        <li><img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="16" height="16"/> HTML5</li>
-        <li><img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="16" height="16"/> CSS3</li>
-        <li><img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Shell" width="16" height="16"/> Shell/Bash</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <strong>Tools & Concepts:</strong>
-      <ul>
-        <li><img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="16" height="16"/> Git & GitHub</li>
-        <li><img src="https://cdn.simpleicons.org/cmake/064F8C" alt="CMake" width="16" height="16"/> CMake</li>
-        <li><img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="16" height="16"/> Linux</li>
-        <li><img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="VS Code" width="16" height="16"/> VS Code</li>
-        <li>🧠 Algorithms & Data Structures</li>
-        <li>🛡️ Network Security</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p>
+  <strong>Languages:</strong><br>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+<p>
+  <strong>Tools & Concepts:</strong><br>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CMake-%23064F8C.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <br>
+  <img src="https://img.shields.io/badge/Algorithms-%23121011.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="Algorithms" />
+  <img src="https://img.shields.io/badge/Network%20Security-121011?style=for-the-badge&logo=crowdstrike&logoColor=red" alt="Security" />
+</p>
 
 ## 📊 My GitHub Stats
 
@@ -52,11 +46,11 @@ I love diving deep into **C++**, crafting experiences for the **web**, and defen
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/wiktor-sinkiewicz-046110204" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/wiktor-sinkiewicz-046110204/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://twitter.com/Wiktor_Sin" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  <a href="https://twitter.com/Wiktor_Sin">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)">
   </a>
 </p>
