@@ -20,21 +20,21 @@ I love diving deep into **C++**, crafting experiences for the **web**, and defen
     <td valign="top">
       <strong>Languages:</strong>
       <ul>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> C++</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="16" height="16"/> C</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="16" height="16"/> Python</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="16" height="16"/> HTML5</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="16" height="16"/> CSS3</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Shell" width="16" height="16"/> Shell/Bash</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="16" height="16"/> C++</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="16" height="16"/> C</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="16" height="16"/> Python</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="16" height="16"/> HTML5</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="16" height="16"/> CSS3</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Shell" width="16" height="16"/> Shell/Bash</li>
       </ul>
     </td>
     <td valign="top">
       <strong>Tools & Concepts:</strong>
       <ul>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="16" height="16"/> Git & GitHub</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="CMake" width="16" height="16"/> CMake</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="16" height="16"/> Linux</li>
-        <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="16" height="16"/> VS Code</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="16" height="16"/> Git & GitHub</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" alt="CMake" width="16" height="16"/> CMake</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="16" height="16"/> Linux</li>
+        <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="16" height="16"/> VS Code</li>
         <li>🧠 Algorithms & Data Structures</li>
         <li>🛡️ Network Security</li>
       </ul>
